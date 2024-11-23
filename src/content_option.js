@@ -1,11 +1,11 @@
 const logotext = "{Initials Here}";
 const meta = {
-    title: "{Your name}",
-    description: "I'm {Your name}, a technologist and cybersecurity enthuist.",
+    title: "SALEH AADIL",
+    description: "I'm SALEH AADIL, a technologist and cybersecurity enthuist.",
 };
 
 const introdata = {
-    title: "Hi, I'm {Your Name}",
+    title: "Hi, I'm SALEH AADIL",
     animated: {
         first: "Technologist",
         second: "Visionary",
@@ -147,8 +147,8 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com/",
-    linkedin: "https://linkedin.com/",
+    github: "https://github.com/Aadil008/my_portfolio.git",
+    linkedin: "www.linkedin.com/in/saleh-aadil-6a4968294",
 };
 export {
     meta,
