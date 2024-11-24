@@ -1,4 +1,4 @@
-const logotext = "{Initials Here}";
+const logotext = "PORTFOLIO";
 const meta = {
     title: "SALEH AADIL",
     description: "I'm SALEH AADIL, a technologist and cybersecurity enthuist.",
@@ -137,7 +137,7 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "test@test.com",
+    YOUR_EMAIL: "Aadilsaleh1210@gmail.com",
     description: "Looking forward to hearing from you!",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
