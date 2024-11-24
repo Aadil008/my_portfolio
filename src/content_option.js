@@ -147,8 +147,8 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com/Aadil008/my_portfolio.git",
-    linkedin: "www.linkedin.com/in/saleh-aadil-6a4968294",
+    github: "https://github.com/Aadil008/",
+    linkedin: "https://www.linkedin.com/in/saleh-aadil-6a4968294/",
 };
 export {
     meta,
