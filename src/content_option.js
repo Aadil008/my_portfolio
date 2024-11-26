@@ -21,7 +21,7 @@ const introdata = {
 
 const dataabout = {
     title: "Who am I?",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    aboutme: "Aspiring Cyber Security Professional aiming to leverage my technical skills and passion for cybersecurity in a dynamic and innovative environment. Seeking to contribute to an organization's security posture by applying knowledge in network security, vulnerability assessments, and incident response. ",
 };
 const worktimeline = [{
         jobtitle: "Example 1",
@@ -45,11 +45,11 @@ const skills = [{
     },
     
     {
-        name: "C",
+        name: "SOC",
     },
     
     {
-        name: "Java",
+        name: "Vulnerability Assessment",
     },
     
     {
