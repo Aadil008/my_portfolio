@@ -24,19 +24,14 @@ const dataabout = {
     aboutme: "Aspiring Cyber Security Professional aiming to leverage my technical skills and passion for cybersecurity in a dynamic and innovative environment. Seeking to contribute to an organization's security posture by applying knowledge in network security, vulnerability assessments, and incident response. ",
 };
 const worktimeline = [{
-        jobtitle: "Example 1",
-        where: "Google",
-        date: "2023",
+        jobtitle: "Cyber Security Intern",
+        where: "Techdefence",
+        date: "2024",
     },
     {
-        jobtitle: "Example 2",
-        where: "Micosoft",
+        jobtitle: "Cyber Security Intern",
+        where: "Prashunet PvtLtd",
         date: "2022",
-    },
-    {
-        jobtitle: "Example 3",
-        where: "Meta",
-        date: "2021",
     },
 ];
 
@@ -70,7 +65,7 @@ const skills = [{
 
     {
         name: "Network Exploitation",
-    },
+    },           
 ];
 
 const dataportfolio = [{
